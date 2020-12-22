@@ -1,0 +1,54 @@
+ ___  _    ___   ___ 
+| _ ) |  / _ \ / __|
+| _ \ |_| (_) | (_ |
+|___/____\___/ \___|
+                    
+==== HOW TO MAKE YOUR OWN GOPHERHOLE =========================
+
+So. You also want to make a gopherhole? Today I'm going to be 
+telling you how to do it! Lets get started!
+
+STEP 1: GET A VPS OR SERVER
+
+To run a gopherhole, you need a server, just like hosting a 
+normal website. If the hosting company of your choosing doesn't
+have gopher servers, just get a VPS.
+
+STEP 2: INSTALLING PYGOPHERD
+
+To run a Gopherdserver you are gonna need a few things:
+
+- Python 2 or higher
+- The pygopherd package
+- Text editor like vim or nano
+
+All these packages should be in the default repos.
+So install them with:
+
+sudo apt install python pygopherd vim
+
+STEP 3: RUNNING PYGOPHERD
+
+To run, stop or restart pygoperd, use these commands:
+
+sudo /etc/init.d/pygopherd start
+sudo /etc/init.d/pygopherd stop
+sudo /etc/init.d/pygopherd restart
+
+STEP 4: CONFIGURE GOPHERMAP
+
+When starting your gopherhole, you should get a default
+page telling you what to do next.
+In short, open the terminal, and type:
+
+sudo nano /var/gopher/gophermap
+
+Then just build your gopherhole landingpage.
+I hope this helps!
+
+- Robin
+
+1==== BACK ====================================================	/
+
+
+MADE BY ROBIJNTJE

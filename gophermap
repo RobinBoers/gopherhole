@@ -1,0 +1,47 @@
+  ____        _     _           
+|  _ \ ___ | |__ (_)_ __  ___ 
+| |_) / _ \| '_ \| | '_ \/ __|
+|  _ < (_) | |_) | | | | \__ \
+|_| \_\___/|_.__/|_|_| |_|___/
+                              
+===== WELCOME TO MY GOPHERHOLE! ===============================
+
+Hi! I'm Robin Boers, and I am a 13 years old teenager from the
+Netherlands, who loves programming and thinkering with computers.
+
+This is my gopherhole. A gopherhole is a website using the old
+gopher protecol. Its just made up out of plain text, but I really
+like it. This is my little place to experiment with stuff.
+
+===== BLOG ====================================================
+
+I'm soon going to be starting a little blog here. I already
+have a blog on the normal Interwebs, which you can find here:
+hWebdevelopment-En-Meer	URL:http://webdevelopment-en-meer.blogspot.com
+
+==== WHY GOPHER? =============================================
+
+Gopher is a alternative to the http protocol, designed in the
+90's. It uses just plain text, and is very quick. A modern
+webbrowser takes up much of your rescources. It's not unusual
+for Chrome to take up more than 1GB of RAM. 
+
+The normal web is cool, and it is fun to built websites with
+HTML, CSS and JavaScript! But it is also cool to see this
+alternative way of communication. Gopher sites (called 
+gopherholes) don't have annoying pop-ups, and they don't
+track you, nor do they steal your data.
+
+1Learn how to setup a gopherhole yourself!	/blog/diy-gopherhole
+
+===== MORE ABOUT GOPHER ==============================
+
+Here are some usefull links for more info about gopher,
+and hosting a gopherhole.
+
+1Pygopherd	/devel/gopher/pygopherd	gopher.quux.org	70
+1Quux.Org Mega Server	/	gopher.quux.org	70
+1The Gopher Project	/Software/Gopher	gopher.quux.org	70
+1Traditional UMN Home Gopher	/	gopher.tc.umn.edu	70
+
+Welcome to the world of Gopher and enjoy!
